@@ -8,7 +8,7 @@
 
   os_disk {
     name                 = "myOsDisk"
-    caching              = "ReadWrite"
+    caching              = "ReadWriteHOLYSHIT"
     storage_account_type = "Premium_LRS"
   }
 
